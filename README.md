@@ -1,9 +1,9 @@
-![logo](https://url?sa=i&url=https%3A%2F%2Fwww.pingcap.com%2Fblog%2Fai-takes-over-github-analysis-the-future-of-data-science-is-here%2F&psig=AOvVaw2UbLb2EgZ8L-DjNeEwwiEV&ust=1699611495107000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLiL6qzYtoIDFQAAAAAdAAAAABAs)
+![github banner](https://github.com/Yash-Raj20/Yash-Raj20/assets/139006504/25f6f9fb-449a-4379-b1da-46b4d3cf4026)
+
 <h1 align="center">Hi👋 I'm Ratnesh Kumar</h1>
 <h3 align="center">A passionate software Engineer developer from India</h3>
 
-<img align="right" width="500" height="300" src="![image](https://github.com/Yash-Raj20/Yash-Raj20/assets/139006504/0b6baf55-d2ab-484d-be32-c4af74189380)
->
+ ![image](https://github.com/Yash-Raj20/Yash-Raj20/assets/139006504/0b6baf55-d2ab-484d-be32-c4af74189380) <image align="right" width="500" height="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-raj20&label=Profile%20views&color=0e75b6&style=flat" alt="yash-raj20" /> </p>
 
