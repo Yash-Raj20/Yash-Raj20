@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/D4D16AQG9AY7Lmw1Nag/profile-displaybackgroundimage-shrink_350_1400/0/1681584437832?e=1695859200&v=beta&t=o5pNR6lcNsPV2NCcQohkPb2rfI7E4mQIci4IQgNtz94)
+![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pingcap.com%2Fblog%2Fai-takes-over-github-analysis-the-future-of-data-science-is-here%2F&psig=AOvVaw2UbLb2EgZ8L-DjNeEwwiEV&ust=1699611495107000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLiL6qzYtoIDFQAAAAAdAAAAABAs)
 <h1 align="center">Hi👋 I'm Ratnesh Kumar</h1>
 <h3 align="center">A passionate software Engineer developer from India</h3>
 
