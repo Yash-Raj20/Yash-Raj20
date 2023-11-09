@@ -1,8 +1,8 @@
-![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pingcap.com%2Fblog%2Fai-takes-over-github-analysis-the-future-of-data-science-is-here%2F&psig=AOvVaw2UbLb2EgZ8L-DjNeEwwiEV&ust=1699611495107000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLiL6qzYtoIDFQAAAAAdAAAAABAs)
+![logo](https://url?sa=i&url=https%3A%2F%2Fwww.pingcap.com%2Fblog%2Fai-takes-over-github-analysis-the-future-of-data-science-is-here%2F&psig=AOvVaw2UbLb2EgZ8L-DjNeEwwiEV&ust=1699611495107000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLiL6qzYtoIDFQAAAAAdAAAAABAs)
 <h1 align="center">Hi👋 I'm Ratnesh Kumar</h1>
 <h3 align="center">A passionate software Engineer developer from India</h3>
 
-<img align="right" width="500" height="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdesktime.com%2Fblog%2Fchatgpt-use-at-work&psig=AOvVaw2UbLb2EgZ8L-DjNeEwwiEV&ust=1699611495107000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLiL6qzYtoIDFQAAAAAdAAAAABAl">
+<img align="right" width="500" height="300" src="https://url?sa=i&url=https%3A%2F%2Fdesktime.com%2Fblog%2Fchatgpt-use-at-work&psig=AOvVaw2UbLb2EgZ8L-DjNeEwwiEV&ust=1699611495107000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLiL6qzYtoIDFQAAAAAdAAAAABAl">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-raj20&label=Profile%20views&color=0e75b6&style=flat" alt="yash-raj20" /> </p>
 
