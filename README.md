@@ -3,7 +3,7 @@
 <h1 align="center">Hi👋 I'm Ratnesh Kumar</h1>
 <h3 align="center">A passionate software Engineer developer from India</h3>
 
- <image align="right" width="500" height="300">![image](https://github.com/Yash-Raj20/Yash-Raj20/assets/139006504/0b6baf55-d2ab-484d-be32-c4af74189380) 
+ ![image <image align="right" width="500" height="300">](https://github.com/Yash-Raj20/Yash-Raj20/assets/139006504/0b6baf55-d2ab-484d-be32-c4af74189380) 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-raj20&label=Profile%20views&color=0e75b6&style=flat" alt="yash-raj20" /> </p>
 
