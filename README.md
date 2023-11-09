@@ -44,7 +44,7 @@
 </table>
 
 <br><br/>
-    <a href="https://github.com/ShuvenduSamanta/github-readme-stats"><img alt="Shuvendu Samanta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ShuvenduSamanta&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/ShuvenduSamanta/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuvenduSamanta&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Yash-Raj20/github-readme-stats"><img alt="yash RAj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yash-Raj20&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Yash-Raj20/github-readme-stats"><img alt="Yash Raj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Raj20&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
  /// <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. ///
