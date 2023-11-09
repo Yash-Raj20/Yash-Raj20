@@ -1,9 +1,8 @@
 ![logo](https://media.licdn.com/dms/image/D4D16AQG9AY7Lmw1Nag/profile-displaybackgroundimage-shrink_350_1400/0/1681584437832?e=1695859200&v=beta&t=o5pNR6lcNsPV2NCcQohkPb2rfI7E4mQIci4IQgNtz94)
-
 <h1 align="center">Hi👋 I'm Ratnesh Kumar</h1>
 <h3 align="center">A passionate software Engineer developer from India</h3>
 
-<img align="right" alt="coding" width="400" height="250" src=""C:\Users\ratne\OneDrive\Pictures\animation.gif"">
+<img align="right" alt="coding" width="400" height="250" src="(https://desktime.com/blog/wp-content/uploads/2023/06/chatgpt-2-1.png)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-raj20&label=Profile%20views&color=0e75b6&style=flat" alt="yash-raj20" /> </p>
 
