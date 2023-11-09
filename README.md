@@ -1,7 +1,7 @@
 ![logo]("https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png")
 
 <h1 align="center">Hi👋 I'm Ratnesh Kumar</h1>
-<h2 align="center">an Upcomming SDE</h2>
+<h2 align="center" color="green">an Upcomming SDE</h2>
 
  <img align="right"  alt="coding" width="400" height="250" src="https://www.freepik.com/free-vector/coding-round-composition_10272352.htm#query=cartoon%20programmer&position=41&from_view=keyword&track=ais"> 
 
