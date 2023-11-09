@@ -3,7 +3,7 @@
 <h1 align="center">Hi👋 I'm Ratnesh Kumar</h1>
 <h2 align="center">an Upcomming SDE</h2>
 
- <img align="right"  alt="coding" width="400" height="250" src="https://img.freepik.com/free-vector/coding-round-composition_1284-40752.jpg?w=740&t=st=1699527839~exp=1699528439~hmac=a6bd5f8e58912e5688c965dec3140c71c3a38a6c150b4769bf6c4bec61e14fc4"> 
+ <img align="right"  alt="coding" width="400" height="250" src="https://img.freepik.com/free-vector/coding-round-composition_1284-40752.jpg?w=740t=st=1699527839~exp=1699528439~hmac=a6bd5f8e58912e5688c965dec3140c71c3a38a6c150b4769bf6c4bec61e14fc4"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-raj20&label=Profile%20views&color=0e75b6&style=flat" alt="yash-raj20" /> </p>
 
