@@ -1,9 +1,9 @@
-![github banner](https://github.com/Yash-Raj20/Yash-Raj20/assets/139006504/25f6f9fb-449a-4379-b1da-46b4d3cf4026)
+![logo]("https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png")
 
 <h1 align="center">Hi👋 I'm Ratnesh Kumar</h1>
-<h3 align="center">A passionate software Engineer developer from India</h3>
+<h2 align="center">an Upcomming SDE</h2>
 
- ![image <image align="right" width="300" height="200">](https://github.com/Yash-Raj20/Yash-Raj20/assets/139006504/0b6baf55-d2ab-484d-be32-c4af74189380) 
+ <img align="right"  alt="coding" width="400" height="250" src="https://www.freepik.com/free-vector/coding-round-composition_10272352.htm#query=cartoon%20programmer&position=41&from_view=keyword&track=ais"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-raj20&label=Profile%20views&color=0e75b6&style=flat" alt="yash-raj20" /> </p>
 
