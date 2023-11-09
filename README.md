@@ -2,7 +2,7 @@
 <h1 align="center">Hi👋 I'm Ratnesh Kumar</h1>
 <h3 align="center">A passionate software Engineer developer from India</h3>
 
-<img align="right" alt="coding" width="400" height="250" src="(https://desktime.com/blog/wp-content/uploads/2023/06/chatgpt-2-1.png)">
+<img align="right" width="400" height="250" src="(https://desktime.com/blog/wp-content/uploads/2023/06/chatgpt-2-1.png)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-raj20&label=Profile%20views&color=0e75b6&style=flat" alt="yash-raj20" /> </p>
 
