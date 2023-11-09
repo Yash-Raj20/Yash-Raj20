@@ -1,27 +1,27 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
-<h1 align="center">Hello 👋, I'm Shuvendu Samanta</h1>
-<h3 align="center">A passionate developer and CSE student from India</h3>
+[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://www.linkedin.com/in/ratnesh-kumar-39a789257/)
+<h1 align="center">Hello 👋, I'm Ratnesh Kumar</h1>
+<h2 align="center">A passionate developer and CSE student from India</h2>
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvendusamanta&label=Profile%20views&color=0e75b6&style=flat" alt="shuvendusamanta" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yash-Raj20&label=Profile%20views&color=0e75b6&style=flat" alt="Yash-Raj20" /> </p>
 
-<p align="left"> <a href="https://twitter.com/shuvendusamant4" target="blank"><img src="https://img.shields.io/twitter/follow/shuvendusamant4?logo=twitter&style=for-the-badge" alt="shuvendusamant4" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Yash_Raj15" target="blank"><img src="https://img.shields.io/twitter/follow/Yash_Raj15?logo=twitter&style=for-the-badge" alt="Yash_Raj15" /></a> </p>
 
 <img align="center" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
-- 🌱 I’m currently learning **react, web3, mysql**
+- 🌱 I’m currently learning **C++,Java,Python,DSA,**
 
-- 🤝 I’m looking for help with **Blockchain Technologies**
+- 🤝 I’m looking for help with **ML Technologies**
 
-- 💬 Ask me about **html, css, react, java, cpp**
+- 💬 Ask me about **HTML, CSS, JavaScript, C++**
 
-- 📫 How to reach me : **shuvendu247@gmail.com**
+- 📫 How to reach me : **ratneshkumarstm987@gmail.com & ratneshkumarbhr987@gamil.com**
 
 <img align="center" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/shuvendu-samanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shuvendu-samanta" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Ratnesh Kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ratnesh Kumar" height="30" width="40" /></a>
 <a href="https://twitter.com/shuvendusamant4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shuvendusamant4" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shuvendusamanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shuvendusamanta" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/shuvendu-samanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shuvendu-samanta" height="30" width="40" /></a>
