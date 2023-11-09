@@ -1,9 +1,9 @@
-![logo](https://media.licdn.com/dms/image/D4D16AQG9AY7Lmw1Nag/profile-displaybackgroundimage-shrink_350_1400/0/1681584437832?e=1695859200&v=beta&t=o5pNR6lcNsPV2NCcQohkPb2rfI7E4mQIci4IQgNtz94)
+![logo]([https://media.licdn.com/dms/image/D4D16AQG9AY7Lmw1Nag/profile-displaybackgroundimage-shrink_350_1400/0/1681584437832?e=1695859200&v=beta&t=o5pNR6lcNsPV2NCcQohkPb2rfI7E4mQIci4IQgNtz94](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg))
 
 <h1 align="center">Hi👋 I'm Ratnesh Kumar</h1>
 <h3 align="center">A passionate software Engineer developer from India</h3>
 
-<img align="right" alt="coding" width="400" height="250" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<img align="right" alt="coding" width="400" height="250" src="[https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://desktime.com/blog/wp-content/uploads/2023/06/chatgpt-2-1.png)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-raj20&label=Profile%20views&color=0e75b6&style=flat" alt="yash-raj20" /> </p>
 
