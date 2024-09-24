@@ -25,12 +25,12 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/ratnesh-kumar-39a789257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ratnesh-kumar" height="30" width="40" /></a>
-<a href="https://twitter.com/Yash_Raj15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Yash_Raj15" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/ratnesh-kumar20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ratnesh-kumar" height="30" width="40" /></a>
+<a href="https://x.com/intent/follow?screen_name=Yash_Raj15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Yash_Raj15" height="30" width="40" /></a>
 <a href="https://leetcode.com/yashraj15/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashraj15" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22878910/ratnesh-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ratnesh-kumar" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100044473994692" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Yash Raj" height="30" width="40" /></a>
-<a href="https://www.instagram.com/im_yashraj_singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im_yashraj_singh" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ratneshsingh_15/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im_yashraj_singh" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ratneshkumewmo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ratneshkumewmo/profile" height="30" width="40" /></a>
 </p>
 
