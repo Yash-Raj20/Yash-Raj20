@@ -5,7 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yash-Raj20&label=Profile%20views&color=0e75b6&style=flat" alt="Yash-Raj20" /> </p>
 
-<p align="left"> <a href="www.linkedin.com/in/ratnesh-kumar20" target="blank"><img src="https://img.shields.io/twitter/follow/Yash_Raj15?logo=twitter&style=for-the-badge" alt="Linkedln" /></a> </p>
+<p align="left"> <a href="www.linkedin.com/in/ratnesh-kumar20" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedln" /></a> </p>
+
+<p align="left"> <a href="https://www.instagram.com/ratneshsingh_15/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> </p>
+
+<p align="left"> <a href="https://x.com/intent/follow?screen_name=Yash_Raj15" target="blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="twitter" /></a> </p>
 
 <img align="center" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
