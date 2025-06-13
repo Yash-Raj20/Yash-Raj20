@@ -1,55 +1,119 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://www.linkedin.com/in/ratnesh-kumar-39a789257/)
-<h1 align="center">Hello 👋, I'm Ratnesh Kumar</h1>
-<h2 align="center">A passionate developer and CSE student from India</h2>
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yash-Raj20&label=Profile%20views&color=0e75b6&style=flat" alt="Yash-Raj20" /> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&color=00ADB5&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Ratnesh+Kumar+from+India!;Frontend+Dev+%E2%9C%8C%EF%B8%8F+React+%7C+Full+Stack+Node.js+MongoDB;Lifelong+Learner+%F0%9F%93%9A+%7C+Problem+Solver+%F0%9F%94%A5)](https://git.io/typing-svg)
 
-<p align="left"> <a href="www.linkedin.com/in/ratnesh-kumar20" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedln" /></a> </p>
-
-<p align="left"> <a href="https://www.instagram.com/ratneshsingh_15/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> </p>
-
-<p align="left"> <a href="https://x.com/intent/follow?screen_name=Yash_Raj15" target="blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="twitter" /></a> </p>
-
-<img align="center" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
-
-- 🌱 I’m currently learning **C++,Java,Python,DSA,**
-
-- 🤝 I’m looking for help with **ML Technologies**
-
-- 💬 Ask me about **HTML, CSS, JavaScript, C++**
-
-- 📫 How to reach me : **ratneshkumarstm987@gmail.com & ratneshkumarbhr987@gamil.com**
-
-<img align="center" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="www.linkedin.com/in/ratnesh-kumar20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ratnesh-kumar" height="30" width="40" /></a>
-<a href="https://x.com/intent/follow?screen_name=Yash_Raj15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Yash_Raj15" height="30" width="40" /></a>
-<a href="https://leetcode.com/yashraj15/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashraj15" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22878910/ratnesh-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ratnesh-kumar" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100044473994692" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Yash Raj" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ratneshsingh_15/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im_yashraj_singh" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ratneshkumewmo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ratneshkumewmo/profile" height="30" width="40" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7A41D&center=true&vCenter=true&width=800&lines=Building+digital+solutions+that+matter" alt="Typing SVG" />
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
-<br>
-<br>
+---
 
-<table align="center" border="0">
-  <tr>
-    <td><img alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"></td>
-    <td><img alt="Coding" width="150" height="150" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"></td>
-    <td><img alt="Coding" width="280" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"></td>
-  </tr>
-</table>
+### 🙋‍♂️ About Me
 
-<br><br/>
-    <a href="https://github.com/Yash-Raj20/github-readme-stats"><img alt="yash RAj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yash-Raj20&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Yash-Raj20/github-readme-stats"><img alt="Yash Raj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Raj20&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
- /// <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. ///
+- 🧑‍💻 I'm a **Frontend Dev (React)** & **Full Stack Engineer**
+- 💡 Building **responsive, user-friendly UI/UX interfaces**
+- 🏛️ Final Year **B.Tech CSE Student**
+- 🚀 Passionate about **Web Dev, APIs, and Real-world Apps**
+- 🧠 Always learning **DSA | Backend | DevOps**
+- 📨 Contact: `ratneshkumarstm987@gmail.com and ratneshkumarbhr987@gmail.com`
+- 📄 [Download My Resume](https://drive.google.com/your-resume-link](https://drive.google.com/drive/folders/15xcxXW5DbqQbGnM1YMrm4aU0zk3bfb7H?usp=drive_link))
+
+---
+
+### 🧠 My Work Philosophy
+
+- 🔍 Write clean and readable code  
+- 🚀 Build for users, not just machines  
+- 🌱 Always keep improving  
+- 🤝 Collaboration > Competition
+
+---
+
+### 🚧 Currently Building
+
+- 🔧 `JanSeva Portal` – Empowering citizens with issue reporting
+- 💻 `Role-Based Dashboard` – Separate views for Admins & Volunteers
+- ✍️ `Portfolio Website` – Animations + live projects + blogs
+
+---
+
+### 📌 Pinned Projects
+
+| Project               | Tech Stack                        | Highlights                           |
+|----------------------|-----------------------------------|--------------------------------------|
+| JanSeva Portal       | React, Node, MongoDB, Socket.IO   | Citizen issue tracking & proof uploads |
+| Dashboard UI         | React, Tailwind, AuthContext      | Role-based protected routes          |
+| Quiz App             | HTML, CSS, JS                     | Score tracking with timer            |
+
+---
+
+### 🎯 2025 Goals
+
+- 🏅 Crack top internships  
+- 🌍 Collaborate on open-source  
+- 🎓 Master System Design  
+- 🚀 Build 10+ full-stack projects
+
+---
+
+### 🤝 Let's Collaborate On
+
+- ⚛️ React frontend apps  
+- 🌐 Full-stack MERN projects  
+- 🛠️ REST API development  
+- 💬 Let's connect & build something great together!
+
+---
+
+### 🧰 Tech Stack
+
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=for-the-badge&logo=tailwind-css)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
+![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma)
+
+---
+
+### 🧑‍💻 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Yash-Raj20&theme=github-dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yash-Raj20&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Raj20&layout=compact&theme=radical" width="48%" />
+</p>
+
+---
+
+### 🔥 Contribution Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash-Raj20&theme=react-dark)](https://github.com/Yash-Raj20)
+
+---
+
+### 📫 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/ratnesh-kumar20/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/yashraj15/"><img src="https://img.shields.io/badge/-LeetCode-yellow?style=flat-square&logo=Leetcode&logoColor=black"/></a>
+  <a href="https://stackoverflow.com/users/22878910/ratnesh-kumar"><img src="https://img.shields.io/badge/-Stackoverflow-orange?style=flat-square&logo=stackoverflow&logoColor=white"/></a>
+  <a href="mailto:ratneshkumarstm987@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
+
+---
+
+### 🖼️ Quote of the Day
+
+> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – *Martin Fowler*
+
+---
+
+### 😄 Fun Fact
+
+🧃 I debug while sipping chai ☕.  
+🎧 Best ideas strike during late-night coding jams 🎶
+
+---
