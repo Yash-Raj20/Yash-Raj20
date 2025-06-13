@@ -16,7 +16,7 @@
 - 🚀 Passionate about **Web Dev, APIs, and Real-world Apps**
 - 🧠 Always learning **DSA | Backend | DevOps**
 - 📨 Contact: `ratneshkumarstm987@gmail.com and ratneshkumarbhr987@gmail.com`
-- 📄 [Download My Resume](https://drive.google.com/drive/folders/15xcxXW5DbqQbGnM1YMrm4aU0zk3bfb7H?usp=drive_link))
+- 📄 [Download My Resume](https://drive.google.com/drive/folders/15xcxXW5DbqQbGnM1YMrm4aU0zk3bfb7H?usp=drive_link)
 
 ---
 
