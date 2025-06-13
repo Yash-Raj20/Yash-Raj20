@@ -16,7 +16,7 @@
 - 🚀 Passionate about **Web Dev, APIs, and Real-world Apps**
 - 🧠 Always learning **DSA | Backend | DevOps**
 - 📨 Contact: `ratneshkumarstm987@gmail.com and ratneshkumarbhr987@gmail.com`
-- 📄 [Download My Resume](https://drive.google.com/your-resume-link](https://drive.google.com/drive/folders/15xcxXW5DbqQbGnM1YMrm4aU0zk3bfb7H?usp=drive_link))
+- 📄 [Download My Resume](https://drive.google.com/drive/folders/15xcxXW5DbqQbGnM1YMrm4aU0zk3bfb7H?usp=drive_link))
 
 ---
 
@@ -67,14 +67,43 @@
 
 ### 🧰 Tech Stack
 
+<!-- Frontend -->
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=for-the-badge&logo=tailwind-css)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
-![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
+
+<!-- Backend -->
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)
+![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=for-the-badge&logo=socket.io)
+
+<!-- Database -->
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=firebase)
+
+<!-- Tools -->
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/-VSCode-black?style=for-the-badge&logo=visual-studio-code)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma)
+![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman)
+
+<!-- Deployment -->
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel)
+![Netlify](https://img.shields.io/badge/-Netlify-black?style=for-the-badge&logo=netlify)
+![Render](https://img.shields.io/badge/-Render-black?style=for-the-badge&logo=render)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-black?style=for-the-badge&logo=cloudinary)
+
+<!-- Others -->
+![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)
+![NPM](https://img.shields.io/badge/-NPM-black?style=for-the-badge&logo=npm)
+![Yarn](https://img.shields.io/badge/-Yarn-black?style=for-the-badge&logo=yarn)
+![Swagger](https://img.shields.io/badge/-Swagger-black?style=for-the-badge&logo=swagger)
 
 ---
 
