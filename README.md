@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7A41D&center=true&vCenter=true&width=800&lines=Building+digital+solutions+that+matter" alt="Typing SVG" />
 </p>
 
+![My GitHub Game](game.gif)
+
 ---
 
 ### 🙋‍♂️ About Me
