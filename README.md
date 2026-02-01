@@ -7,7 +7,6 @@
   />
 </p>
 
-<p align="center"><img src="game.gif" width="480" alt="My GitHub Game" /></p>
 
 ---
 
