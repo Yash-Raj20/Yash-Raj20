@@ -1,12 +1,13 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://www.linkedin.com/in/ratnesh-kumar-39a789257/)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&color=00ADB5&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Ratnesh+Kumar+from+India!;Frontend+Dev+%E2%9C%8C%EF%B8%8F+React+%7C+Full+Stack+Node.js+MongoDB;Lifelong+Learner+%F0%9F%93%9A+%7C+Problem+Solver+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&color=00ADB5&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Ratnesh+Kumar+from+India!;Frontend+Dev+%E2%80%9CBuilding+user-friendly+interfaces+and+digital+solutions”)](https://create.arrav.xyz)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7A41D&center=true&vCenter=true&width=800&lines=Building+digital+solutions+that+matter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7A41D&center=true&vCenter=true&width=800&lines=Building+digital+solutions+that+matter" alt="Typing Subject"
+  />
 </p>
 
-![My GitHub Game](game.gif)
+<p align="center"><img src="game.gif" width="480" alt="My GitHub Game" /></p>
 
 ---
 
